@@ -131,6 +131,10 @@ b {
     width: 350px;
 }
 
+/* ==========
+    footer
+   ========== */
+   
 footer,
 .footer-content,
 .icons,
@@ -241,7 +245,7 @@ footer h3 {
 }
 
 /* ==============
-   About Me Page
+   my-work page
   ============== */
 .my-works {
     text-align: center;
